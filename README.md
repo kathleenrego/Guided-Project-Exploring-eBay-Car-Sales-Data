@@ -6,7 +6,7 @@
 
 * Objetivo: Aplicar princípios de código limpo e eficiente.
 
-* O score obtido tem que ser superior a 9,50.
+* Score Obtido: 9,50.
 
 ## Ferramentas Utilizadas
 
