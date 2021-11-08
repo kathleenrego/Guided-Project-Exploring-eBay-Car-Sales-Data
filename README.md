@@ -14,4 +14,4 @@
 
 ## Autores
 * [Kathleen Noemi](https://github.com/kathleenrego)
-* [Pedro Henrique](https://github.com/kathleenrego)
+* [Pedro Henrique](https://github.com/pedrohfonseca)
