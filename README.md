@@ -8,14 +8,22 @@ O Código resultante foi avaliado pelo Pylint, obtendo um score 10,0.
 
 ## Ferramentas Utilizadas
 
-* [Colab](https://data.world/data-society/used-cars-data);
-* [Spyder](https://data.world/data-society/used-cars-data);
-* [Jupyter](https://data.world/data-society/used-cars-data);
-* [anaconda3](https://data.world/data-society/used-cars-data)  
+* [Colab](https://colab.research.google.com);
+* [Spyder](https://www.spyder-ide.org);
+* [Jupyter](https://jupyter.org)  
+* [anaconda - 3](https://www.anaconda.com/products/individual)  
 
 ## Comandos Utilizados
 
-* [pylint](https://data.world/data-society/used-cars-data)  
+* [pylint](https://pypi.org/project/pylint)
+
+* Para rodar: 
+```
+pylint ebay.py
+
+```
+* Para visualizar o sculptor: [Meshlab](http://www.meshlab.net/)
+
 
 ## Autores
 * [Kathleen Noemi](https://github.com/kathleenrego)
