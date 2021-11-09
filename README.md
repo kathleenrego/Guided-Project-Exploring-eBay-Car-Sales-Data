@@ -24,5 +24,5 @@ pylint ebay.py
 ```
 
 ## Autores
-* [Kathleen Noemi](https://github.com/kathleenrego);
-* [Pedro Henrique](https://github.com/pedrohfonseca).
+* [Kathleen Noemi](https://github.com/kathleenrego)
+* [Pedro Henrique](https://github.com/pedrohfonseca)
