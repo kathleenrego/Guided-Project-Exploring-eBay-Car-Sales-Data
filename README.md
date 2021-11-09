@@ -2,23 +2,20 @@
 
 ## Informações do Projeto
 
-* Solução para o Guided Project: Exploring eBay Car Sales Data [DataQuest](https://www.dataquest.io/)
+Para implementar a solução, o [Dataset](https://data.world/data-society/used-cars-data) eBay Kleinanzeigen foi tratado, retirando dados nulos e outliers. Em seguida, realizamos uma análise exploratória desses dados, relacionando informações como: Vendas por Data, Preços por Marcas e Preços por Kilometragens. Para isto, foi aplicado princípios de código limpo e boas práticas de programação,, aplicando o conteúdo ministrado na disciplina de Aprendizagem de Máquina. 
 
-* Objetivo: Aplicar princípios de código limpo e eficiente.
-
-* Score Obtido: 10,0.
+O Código resultante foi avaliado pelo Pylint, obtendo um score 10,0.
 
 ## Ferramentas Utilizadas
 
-Spyder
-Colab
-Jupyter 
-anaconda3
-
+* [Colab](https://data.world/data-society/used-cars-data);
+* [Spyder](https://data.world/data-society/used-cars-data);
+* [Jupyter](https://data.world/data-society/used-cars-data)  
+* [anaconda3](https://data.world/data-society/used-cars-data)  
 
 ## Comandos Utilizados
 
-pylint
+* [pylint](https://data.world/data-society/used-cars-data)  
 
 ## Autores
 * [Kathleen Noemi](https://github.com/kathleenrego)
