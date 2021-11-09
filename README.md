@@ -13,7 +13,7 @@
 * [Colab](https://colab.research.google.com);
 * [Spyder](https://www.spyder-ide.org);
 * [Jupyter](https://jupyter.org);
-* [Anaconda - 3](https://www.anaconda.com/products/individual)  
+* [Anaconda - 3](https://www.anaconda.com/products/individual).
 
 ## Comandos Utilizados
 
@@ -24,5 +24,5 @@ pylint ebay.py
 ```
 
 ## Autores
-* [Kathleen Noemi](https://github.com/kathleenrego)
-* [Pedro Henrique](https://github.com/pedrohfonseca)
+* [Kathleen Noemi](https://github.com/kathleenrego);
+* [Pedro Henrique](https://github.com/pedrohfonseca).
