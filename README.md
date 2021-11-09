@@ -11,7 +11,7 @@ O Código resultante foi avaliado pelo Pylint, obtendo um score 10,0.
 * [Colab](https://colab.research.google.com);
 * [Spyder](https://www.spyder-ide.org);
 * [Jupyter](https://jupyter.org)  
-* [anaconda - 3](https://www.anaconda.com/products/individual)  
+* [Anaconda - 3](https://www.anaconda.com/products/individual)  
 
 ## Comandos Utilizados
 
