@@ -6,11 +6,19 @@
 
 * Objetivo: Aplicar princípios de código limpo e eficiente.
 
-* Score Obtido: 9,50.
+* Score Obtido: 10,0.
 
 ## Ferramentas Utilizadas
 
+Spyder
+Colab
+Jupyter 
+anaconda3
+
+
 ## Comandos Utilizados
+
+pylint
 
 ## Autores
 * [Kathleen Noemi](https://github.com/kathleenrego)
