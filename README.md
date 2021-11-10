@@ -20,7 +20,7 @@
 * Para rodar o Projeto com o [pylint](https://pypi.org/project/pylint): 
 ```
 pip install pylint
-pylint ebay.py
+pylint basics.py
 ```
 
 ## Autores
